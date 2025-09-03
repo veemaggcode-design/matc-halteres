@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="54.777672mm"
+   height="49.999996mm"
+   viewBox="0 0 54.77767 49.999996"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Stats clair.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9041807"
+     inkscape:cx="60.946621"
+     inkscape:cy="75.925028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.320835,-80.433332)">
+    <g
+       id="g7-7"
+       inkscape:label="Stats"
+       transform="matrix(1.00182,0,0,1.00182,46.709933,54.091032)"
+       style="fill:#ffffff;fill-opacity:0;stroke:#fae1df;stroke-width:5.49105;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#fae1df;stroke-width:9.37131;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 83.811903,31.472442 H 105.19949 V 52.860036"
+         id="path2-9"
+         transform="matrix(0.55119029,0,0,0.62288724,13.449962,9.6092965)"
+         inkscape:label="Flèche" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#fae1df;stroke-width:9.37131;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="M 27.042614,80.700277 56.482767,51.260126 70.977372,65.754729 105.24905,31.483044"
+         id="path1-3"
+         transform="matrix(0.55119029,0,0,0.62288724,13.449962,9.6092965)"
+         inkscape:label="Courbe" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#fae1df;stroke-width:9.37131;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 21.231416,102.22665 H 111.06025"
+         id="path3-1"
+         transform="matrix(0.55119029,0,0,0.62288724,13.449962,9.6092965)"
+         inkscape:label="Barre horizontale" />
+    </g>
+  </g>
+</svg>
