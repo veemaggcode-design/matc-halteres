@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.264912mm"
+   height="50mm"
+   viewBox="0 0 41.264911 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Exercice sombre.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9041807"
+     inkscape:cx="60.946621"
+     inkscape:cy="71.104391"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.320829,-81.756249)">
+    <g
+       id="g6"
+       inkscape:label="Exercices"
+       transform="matrix(1.0093884,0,0,1.0093884,-25.348707,55.514527)"
+       style="fill:#ffffff;fill-opacity:0;stroke:#0d1f2d;stroke-width:5.4006;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#0d1f2d;stroke-width:5.4006;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 108.70522,72.832291 7.67685,-15.207114 -19.893135,-2.176694 18.009585,-15.667386 8.16781,7.337994 9.30348,-3.662304"
+         id="path4"
+         sodipodi:nodetypes="cccccc"
+         inkscape:label="Corps" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#0d1f2d;stroke-width:9.81927;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120.8302,30.907281 0.0127,0.01105"
+         id="path6"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Tête" />
+    </g>
+  </g>
+</svg>

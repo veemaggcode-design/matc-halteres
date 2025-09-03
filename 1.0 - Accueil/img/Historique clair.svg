@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="59.161453mm"
+   height="50mm"
+   viewBox="0 0 59.161453 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Historique clair.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9041807"
+     inkscape:cx="94.002415"
+     inkscape:cy="89.009613"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60.589581,-76.99375)">
+    <g
+       id="g23"
+       inkscape:label="Historique"
+       transform="matrix(1.0182146,0,0,1.0182146,-17.170914,-87.457106)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#fae1df;stroke-width:5.88512;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#fae1df;stroke-width:5.88512;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 110.13281,174.59192 v 13.98985 l 9.65973,2.58831"
+         id="path20"
+         inkscape:label="Aiguille" />
+      <path
+         id="path22"
+         style="fill:#ffffff;fill-opacity:0;stroke:#fae1df;stroke-width:5.88512;stroke-linejoin:round;stroke-miterlimit:8.9;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         inkscape:label="Cercle"
+         d="m -88.639353,-182.30949 a 21.60874,21.60874 0 0 1 -25.032777,17.52813 21.60874,21.60874 0 0 1 -17.52813,-25.03277 21.60874,21.60874 0 0 1 25.03277,-17.52814"
+         transform="scale(-1)" />
+      <path
+         id="path23"
+         style="fill:#fae1df;fill-opacity:1;stroke:#fae1df;stroke-width:5.10123;stroke-miterlimit:8.9;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         inkscape:transform-center-x="-0.91731229"
+         inkscape:transform-center-y="1.6067844"
+         transform="matrix(1.1536665,0,0,1.1536665,-5.0177753,-20.950177)"
+         d="m 79.23205,187.64994 -4.824667,-13.86537 14.420095,2.7544 z"
+         inkscape:label="Flèche" />
+    </g>
+  </g>
+</svg>

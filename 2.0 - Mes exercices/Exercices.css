@@ -1,0 +1,164 @@
+/*Style global*/
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: #e4c3ad;
+    color: #0d1f2d;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/*Style de l'en-tête*/
+header {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.3em;
+    color: #0d1f2d;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+header a {
+    margin-left: auto;
+}
+
+.logo {
+    height: 64px;
+    margin-right: 20px;
+
+}
+
+/*Style du bloc principal*/
+main {
+    height: 520px;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+/*Style de la liste des exercices*/
+.liste {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+/*Style d'un exercice*/
+.exercice {
+    background-color: #FAE1DF;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.nom {
+    color: #0d1f2d;
+    text-align: justify;
+    margin: 0;
+    font-size: 4.5vw;
+
+}
+
+.muscles {
+    color: #9ea3b0;
+    text-align: justify;
+    margin: 0;
+    font-size: 3vw;
+}
+
+.details {
+    color: #9ea3b0;
+    padding: 0 10px 0 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*Style des fonction filtre et plus*/
+.zone {
+    background-image: url('./img/Zone\ filtre\ et\ +.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0 30px 0 30px;
+    margin: 15px 20px 15px 20px;
+}
+
+/* Style de la navigation en bas */
+a {
+    text-decoration: none;
+}
+
+ul.navigation {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 10px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 15px;
+    margin: 0;
+    background-color: #546a7b;
+    height: 75px;
+    border-top: #0d1f2d 3.5px solid;
+}
+
+.navigation li {
+    flex: 1;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation img {
+    height: 40px;
+    width: auto;
+    transition: transform 0.3s;
+}
+
+.navigation img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.navigation .play img {
+    height: 96px;
+}
+
+.navigation .play {
+    transform: translateY(-40px);
+}
+
+.play {
+    width: 96px;
+    height: 96px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
